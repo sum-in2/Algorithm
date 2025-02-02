@@ -1,0 +1,15 @@
+D:\Programming\Project\Algorithm\CSTest\bin\Debug\net8.0\CSTest.exe
+D:\Programming\Project\Algorithm\CSTest\bin\Debug\net8.0\CSTest.deps.json
+D:\Programming\Project\Algorithm\CSTest\bin\Debug\net8.0\CSTest.runtimeconfig.json
+D:\Programming\Project\Algorithm\CSTest\bin\Debug\net8.0\CSTest.dll
+D:\Programming\Project\Algorithm\CSTest\bin\Debug\net8.0\CSTest.pdb
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.AssemblyInfoInputs.cache
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.AssemblyInfo.cs
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.csproj.CoreCompileInputs.cache
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.sourcelink.json
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.dll
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\refint\CSTest.dll
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.pdb
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\CSTest.genruntimeconfig.cache
+D:\Programming\Project\Algorithm\CSTest\obj\Debug\net8.0\ref\CSTest.dll
