@@ -1,0 +1,14 @@
+D:\Programming\Project\BaekJoon\bin\Debug\net8.0\BaekJoon.exe
+D:\Programming\Project\BaekJoon\bin\Debug\net8.0\BaekJoon.deps.json
+D:\Programming\Project\BaekJoon\bin\Debug\net8.0\BaekJoon.runtimeconfig.json
+D:\Programming\Project\BaekJoon\bin\Debug\net8.0\BaekJoon.dll
+D:\Programming\Project\BaekJoon\bin\Debug\net8.0\BaekJoon.pdb
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\BaekJoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\BaekJoon.AssemblyInfoInputs.cache
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\BaekJoon.AssemblyInfo.cs
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\BaekJoon.csproj.CoreCompileInputs.cache
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\BaekJoon.dll
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\refint\BaekJoon.dll
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\BaekJoon.pdb
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\BaekJoon.genruntimeconfig.cache
+D:\Programming\Project\BaekJoon\obj\Debug\net8.0\ref\BaekJoon.dll
