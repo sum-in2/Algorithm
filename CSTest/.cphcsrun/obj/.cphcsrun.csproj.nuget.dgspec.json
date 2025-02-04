@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\GitHubClone\\Algorithm\\CSTest\\CSTest.csproj": {}
+    "d:\\Programming\\GitHubClone\\Algorithm\\CSTest\\.cphcsrun\\.cphcsrun.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\GitHubClone\\Algorithm\\CSTest\\CSTest.csproj": {
+    "d:\\Programming\\GitHubClone\\Algorithm\\CSTest\\.cphcsrun\\.cphcsrun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\GitHubClone\\Algorithm\\CSTest\\CSTest.csproj",
-        "projectName": "CSTest",
-        "projectPath": "D:\\Programming\\GitHubClone\\Algorithm\\CSTest\\CSTest.csproj",
+        "projectUniqueName": "d:\\Programming\\GitHubClone\\Algorithm\\CSTest\\.cphcsrun\\.cphcsrun.csproj",
+        "projectName": ".cphcsrun",
+        "projectPath": "d:\\Programming\\GitHubClone\\Algorithm\\CSTest\\.cphcsrun\\.cphcsrun.csproj",
         "packagesPath": "C:\\Users\\aaa\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\GitHubClone\\Algorithm\\CSTest\\obj\\",
+        "outputPath": "d:\\Programming\\GitHubClone\\Algorithm\\CSTest\\.cphcsrun\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aaa\\AppData\\Roaming\\NuGet\\NuGet.Config"

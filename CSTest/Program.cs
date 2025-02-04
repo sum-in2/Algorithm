@@ -1,17 +1,22 @@
-﻿namespace BaekJoon;
+﻿using System.Text;
 
-class Program
+namespace BaekJoon
 {
-    static void Main(string[] args)
+    class Program
     {
-        int result = 0;
-        string[] s = Console.ReadLine().Split();
-
-        if (int.TryParse(s[0], out int valueA) && int.TryParse(s[1], out int valueB))
+        static void Main(string[] args)
         {
-            result = valueA - valueB;
-        }
+            StringBuilder sb = new StringBuilder();
+            string[] s = Console.ReadLine()!.Split();
 
-        Console.WriteLine(result);
+            if (long.TryParse(s[0], out long valueA) &&
+            long.TryParse(s[1], out long valueB) &&
+            long.TryParse(s[2], out long valueC))
+            {
+                sb.AppendLine($"{valueA + valueB + valueC}");
+            }
+
+            Console.WriteLine(sb);
+        }
     }
 }

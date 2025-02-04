@@ -1,0 +1,15 @@
+d:\Programming\GitHubClone\Algorithm\CSTest\Program_bin\.cphcsrun.exe
+d:\Programming\GitHubClone\Algorithm\CSTest\Program_bin\.cphcsrun.deps.json
+d:\Programming\GitHubClone\Algorithm\CSTest\Program_bin\.cphcsrun.runtimeconfig.json
+d:\Programming\GitHubClone\Algorithm\CSTest\Program_bin\.cphcsrun.dll
+d:\Programming\GitHubClone\Algorithm\CSTest\Program_bin\.cphcsrun.pdb
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.AssemblyInfoInputs.cache
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.AssemblyInfo.cs
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.csproj.CoreCompileInputs.cache
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.sourcelink.json
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.dll
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\refint\.cphcsrun.dll
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.pdb
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\.cphcsrun.genruntimeconfig.cache
+d:\Programming\GitHubClone\Algorithm\CSTest\.cphcsrun\obj\Release\net8.0\ref\.cphcsrun.dll
