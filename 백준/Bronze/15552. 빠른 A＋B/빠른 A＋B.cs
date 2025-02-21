@@ -8,14 +8,18 @@ namespace Program
         static void Main(string[] args)
         {
             StringBuilder sb = new StringBuilder();
-            int cnt = int.Parse(Console.ReadLine()!);
-
-            for (int i = 0; i < cnt; i++)
+            using (StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput())))
+            using (StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput())))
             {
-                sb.AppendLine($"{Array.ConvertAll(Console.ReadLine()!.Split(), int.Parse).Sum()}");
-            }
+                int cnt = int.Parse(sr.ReadLine()!);
 
-            Console.WriteLine(sb.ToString());
+                for (int i = 0; i < cnt; i++)
+                {
+                    sb.AppendLine($"{Array.ConvertAll(sr.ReadLine()!.Split(), int.Parse).Sum()}");
+                }
+
+                sw.WriteLine(sb.ToString());
+            }
         }
     }
 }
