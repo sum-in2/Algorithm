@@ -15,14 +15,9 @@ namespace Program
 
                 for (int i = 1; i <= cnt; i++)
                 {
-                    for (int j = 0; j < i; j++)
-                    {
-                        sb.Append("*");
-                    }
-                    sb.Append("\n");
+                    sb.Append("*");
+                    sw.WriteLine(sb.ToString());
                 }
-
-                sw.WriteLine(sb.ToString());
             }
         }
     }
